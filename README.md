@@ -1,6 +1,6 @@
 # Heaven Gallery
 
-# Heaven Gallery offers a platform for browsing furniture and decor with a convenient online space to explore a variety of furniture items, allowing for easy browsing and selection of home decor essentials.
+#### Heaven Gallery offers a platform for browsing furniture and decor with a convenient online space to explore a variety of furniture items, allowing for easy browsing and selection of home decor essentials.
 
 Visit : https://sick-dress-4939.netlify.app
 
