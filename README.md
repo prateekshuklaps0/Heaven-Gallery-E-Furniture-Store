@@ -1,11 +1,8 @@
-# Grow Fin
+# Heaven Gallery
 
-# What is Grow Fin about?
+# Heaven Gallery offers a platform for browsing furniture and decor with a convenient online space to explore a variety of furniture items, allowing for easy browsing and selection of home decor essentials.
 
-Grow Fin is online brokerage website which provide users to manage their financial portfolio such as Stocks, Bonds, Mutual Funds etc.
-This Project is build with React and Chakra UI library and JSON-server for backend network requests.
-
-Deployed Link - https://sick-dress-4939.netlify.app/
+Visit : https://sick-dress-4939.netlify.app
 
 ## Features:-
 
